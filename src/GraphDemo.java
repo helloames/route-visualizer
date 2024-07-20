@@ -57,7 +57,7 @@ public class GraphDemo {
     public void userInteract(GraphProcessor gp,Visualize viz) {
         
         String start = "Miami FL";
-        String end = "Seattle WA";
+        String end = "Richland WA";
 
         /** remove comment for user-interaction
          

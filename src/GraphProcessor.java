@@ -2,8 +2,6 @@ import java.security.InvalidAlgorithmParameterException;
 import java.io.*;
 import java.util.*;
 
-// partners: Amy Zhang and Amy Liu (CS 201 S 2024)
-
 /**
  * Models a weighted graph of latitude-longitude points
  * and supports various distance and routing operations.
