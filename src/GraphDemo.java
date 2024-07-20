@@ -3,10 +3,15 @@
  * network, showing the functionality of GraphProcessor and using
  * Visualize
  * @author Owen Astrachan (preliminary)
- * TO DO: Add your name(s) as authors
+ * @author Amy Zhang
+ * 
+ * To modify the start and intermission and stop cities, change the arguments of userInteract or segmented.
+ ** 
  */
 import java.util.*;
 import java.io.*;
+
+
 
 public class GraphDemo {
     
