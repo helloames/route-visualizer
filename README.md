@@ -1,9 +1,6 @@
 # Project 6: Route
 
-
-To run the project, 
-
-
+To run the project, see GraphDemo.java and /docs/details.md.
 
 Below are the directions I recieved for Project 6 Route in CompSci 201 at Duke University, Spring 24.
 
