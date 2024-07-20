@@ -2,7 +2,7 @@
 
 To run the project, see GraphDemo.java and /docs/details.md. If you have questions, email me at amy.zhang@duke.edu. Thanks!
 
-Below are the directions I recieved for Project 6 Route in CompSci 201 at Duke University, Spring 24.
+Below are the directions I recieved for Project 6 Route in CompSci 201 at Duke University, Spring 2024.
 
 See the [details document](docs/details.md) for information on using Git, starting the project, and more details about the project including information about the classes and concepts that are outlined briefly below. You'll absolutely need to read the information in the details document to understand how the classes in this project work independently and together. The details document also contains project-specific details. This current document provides a high-level overview of the assignment.
 

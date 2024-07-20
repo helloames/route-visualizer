@@ -13,6 +13,7 @@ import java.util.*;
  * 
  * @author Emily Du
  * @author Havish Malladi
+ * @author Amy Zhang
  */
 
 public class TestUSGraphProcessor {
